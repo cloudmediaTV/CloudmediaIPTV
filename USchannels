@@ -1,1384 +1,743 @@
-#EXTINF:-1,2s TV SN
-http://mypanel.tv:8080/live/nb/nb2017/6839.ts
-#EXTINF:-1,AIT International HD NG
-http://mypanel.tv:8080/live/nb/nb2017/7952.ts
-#EXTINF:-1,Biafra 1 NG
-http://mypanel.tv:8080/live/nb/nb2017/15916.ts
-#EXTINF:-1,Biafra 2 NG
-http://mypanel.tv:8080/live/nb/nb2017/15915.ts
-#EXTINF:-1,Biafra 3 NG
-http://mypanel.tv:8080/live/nb/nb2017/15914.ts
-#EXTINF:-1,Biafra 4 NG
-http://mypanel.tv:8080/live/nb/nb2017/15913.ts
-#EXTINF:-1,ANN7 ZA
-http://mypanel.tv:8080/live/nb/nb2017/6828.ts
-#EXTINF:-1,Africa Cable TV ML
-http://mypanel.tv:8080/live/nb/nb2017/12100.ts
-#EXTINF:-1,Afrique Media CM
-http://mypanel.tv:8080/live/nb/nb2017/11298.ts
-#EXTINF:-1,Ben TV NG
-http://mypanel.tv:8080/live/nb/nb2017/8074.ts
-#EXTINF:-1,Channels Television NG
-http://mypanel.tv:8080/live/nb/nb2017/12124.ts
-#EXTINF:-1,CRTV CM
-http://mypanel.tv:8080/live/nb/nb2017/6821.ts
-#EXTINF:-1,Africa TV 3 SD
-http://mypanel.tv:8080/live/nb/nb2017/6833.ts
-#EXTINF:-1,Emmanuel TV NG
-http://mypanel.tv:8080/live/nb/nb2017/6770.ts
-#EXTINF:-1,GTV GH
-http://mypanel.tv:8080/live/nb/nb2017/6818.ts
-#EXTINF:-1,Gabon TV GA
-http://mypanel.tv:8080/live/nb/nb2017/12126.ts
-#EXTINF:-1,Joy News GH
-http://mypanel.tv:8080/live/nb/nb2017/6784.ts
-#EXTINF:-1,Lamp Fall TV SN
-http://mypanel.tv:8080/live/nb/nb2017/6816.ts
-#EXTINF:-1,Nollywood AF
-http://mypanel.tv:8080/live/nb/nb2017/6782.ts
-#EXTINF:-1,Nollywood Movies AF
-http://mypanel.tv:8080/live/nb/nb2017/6781.ts
-#EXTINF:-1,ORTB TV BJ
-http://mypanel.tv:8080/live/nb/nb2017/6790.ts
-#EXTINF:-1,ORTM TV ML
-http://mypanel.tv:8080/live/nb/nb2017/6789.ts
-#EXTINF:-1,Ole TFM SN
-http://mypanel.tv:8080/live/nb/nb2017/6792.ts
-#EXTINF:-1,RTB TV (Burkina Faso) BF
-http://mypanel.tv:8080/live/nb/nb2017/12098.ts
-#EXTINF:-1,RTI 1 CI
-http://mypanel.tv:8080/live/nb/nb2017/6797.ts
-#EXTINF:-1,RTI 2 CI
-http://mypanel.tv:8080/live/nb/nb2017/6796.ts
-#EXTINF:-1,RTS 1 SN
-http://mypanel.tv:8080/live/nb/nb2017/6799.ts
-#EXTINF:-1,Rave TV NG
-http://mypanel.tv:8080/live/nb/nb2017/6800.ts
-#EXTINF:-1,Sen TV SN
-http://mypanel.tv:8080/live/nb/nb2017/6805.ts
-#EXTINF:-1,TFM SN
-http://mypanel.tv:8080/live/nb/nb2017/6810.ts
-#EXTINF:-1,TPA AO
-http://mypanel.tv:8080/live/nb/nb2017/6787.ts
-#EXTINF:-1,TV Continental NG
-http://mypanel.tv:8080/live/nb/nb2017/6814.ts
-#EXTINF:-1,Tele Congo CG
-http://mypanel.tv:8080/live/nb/nb2017/6783.ts
-#EXTINF:-1,VOX Africa AF
-http://mypanel.tv:8080/live/nb/nb2017/6776.ts
-#EXTINF:-1,Wazobia TV NG
-http://mypanel.tv:8080/live/nb/nb2017/6812.ts
-#EXTINF:-1,Adom TV GH
-http://mypanel.tv:8080/live/nb/nb2017/6837.ts
-#EXTINF:-1,Kessben TV GH
-http://mypanel.tv:8080/live/nb/nb2017/12147.ts
-#EXTINF:-1,Kalsan TV SO
-http://mypanel.tv:8080/live/nb/nb2017/6815.ts
-#EXTINF:-1,Horn Cable TV SO
-http://mypanel.tv:8080/live/nb/nb2017/12114.ts
-#EXTINF:-1,Africa TV 4 AF
-http://mypanel.tv:8080/live/nb/nb2017/6832.ts
-#EXTINF:-1,Somali Cable SO
-http://mypanel.tv:8080/live/nb/nb2017/6804.ts
-#EXTINF:-1,Star TV SO
-http://mypanel.tv:8080/live/nb/nb2017/12115.ts
-#EXTINF:-1,Africa TV 1 SD
-http://mypanel.tv:8080/live/nb/nb2017/6835.ts
-#EXTINF:-1,Africa TV 2 AF
-http://mypanel.tv:8080/live/nb/nb2017/6834.ts
-#EXTINF:-1,Walta TV (Ethiopia) AF
-http://mypanel.tv:8080/live/nb/nb2017/12128.ts
-#EXTINF:-1,3ABN Kids AF
-http://mypanel.tv:8080/live/nb/nb2017/12095.ts
-#EXTINF:-1,ABN TV GH
-http://mypanel.tv:8080/live/nb/nb2017/12140.ts
-#EXTINF:-1,Abundant Grace TV GH
-http://mypanel.tv:8080/live/nb/nb2017/12145.ts
-#EXTINF:-1,ACTS TV GH
-http://mypanel.tv:8080/live/nb/nb2017/12142.ts
-#EXTINF:-1,Africa News AF
-http://mypanel.tv:8080/live/nb/nb2017/6831.ts
-#EXTINF:-1,Africa News 24 AF
-http://mypanel.tv:8080/live/nb/nb2017/12106.ts
-#EXTINF:-1,Africa 24 AF
-http://mypanel.tv:8080/live/nb/nb2017/6836.ts
-#EXTINF:-1,Africa News Network 7 (ANN7)  AF
-http://mypanel.tv:8080/live/nb/nb2017/12107.ts
-#EXTINF:-1,Al Jazeera Mubasher AF
-http://mypanel.tv:8080/live/nb/nb2017/12093.ts
-#EXTINF:-1,Arise News AF
-http://mypanel.tv:8080/live/nb/nb2017/12108.ts
-#EXTINF:-1,AYV TV Sierra Leone AF
-http://mypanel.tv:8080/live/nb/nb2017/12077.ts
-#EXTINF:-1,Canal Sport 1 AF
-http://mypanel.tv:8080/live/nb/nb2017/12167.ts
-#EXTINF:-1,Canal  Sport 2 AF
-http://mypanel.tv:8080/live/nb/nb2017/12166.ts
-#EXTINF:-1,Canal CVV International TV CD
-http://mypanel.tv:8080/live/nb/nb2017/12150.ts
-#EXTINF:-1,Canal2 Info (Cameroon) AF
-http://mypanel.tv:8080/live/nb/nb2017/12168.ts
-#EXTINF:-1,Catholic TV AF
-http://mypanel.tv:8080/live/nb/nb2017/12091.ts
-#EXTINF:-1,Christian  TV ( RTV ) AF
-http://mypanel.tv:8080/live/nb/nb2017/12120.ts
-#EXTINF:-1,Cine Plus GH
-http://mypanel.tv:8080/live/nb/nb2017/6824.ts
-#EXTINF:-1,DBS (Cameroon) AF
-http://mypanel.tv:8080/live/nb/nb2017/12125.ts
-#EXTINF:-1,Divin Amour TV FHD AF
-http://mypanel.tv:8080/live/nb/nb2017/12122.ts
-#EXTINF:-1,EBC 3 TV (Ethiopia) AF
-http://mypanel.tv:8080/live/nb/nb2017/12135.ts
-#EXTINF:-1,El Bilad TV (Algeria) AF
-http://mypanel.tv:8080/live/nb/nb2017/12090.ts
-#EXTINF:-1,218 TV Libye AR
-http://mypanel.tv:8080/live/nb/nb2017/8889.ts
-#EXTINF:-1,2m Maroc AR
-http://mypanel.tv:8080/live/nb/nb2017/8825.ts
-#EXTINF:-1,4G Aflam ARB
-http://mypanel.tv:8080/live/nb/nb2017/14820.ts
-#EXTINF:-1,4G Cima ARB
-http://mypanel.tv:8080/live/nb/nb2017/14819.ts
-#EXTINF:-1,4G Classic ARB
-http://mypanel.tv:8080/live/nb/nb2017/14818.ts
-#EXTINF:-1,4G Drama ARB
-http://mypanel.tv:8080/live/nb/nb2017/14817.ts
-#EXTINF:-1,4G Film ARB
-http://mypanel.tv:8080/live/nb/nb2017/14816.ts
-#EXTINF:-1,A1 Jordan ARB
-http://mypanel.tv:8080/live/nb/nb2017/14749.ts
-#EXTINF:-1,AL Hiwar Tunisia AR
-http://mypanel.tv:8080/live/nb/nb2017/8922.ts
-#EXTINF:-1,AL Manar ARB
-http://mypanel.tv:8080/live/nb/nb2017/8932.ts
-#EXTINF:-1,ANN AR
-http://mypanel.tv:8080/live/nb/nb2017/8888.ts
-#EXTINF:-1,ART Cinema ARB
-http://mypanel.tv:8080/live/nb/nb2017/14825.ts
-#EXTINF:-1,Abu Dhabi Drama ARB
-http://mypanel.tv:8080/live/nb/nb2017/14835.ts
-#EXTINF:-1,Abu Dhabi Nat Geo AR
-http://mypanel.tv:8080/live/nb/nb2017/5891.ts
-#EXTINF:-1,Abu Dhabi Sports 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5890.ts
-#EXTINF:-1,Abu Dhabi Sports 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5889.ts
-#EXTINF:-1,Abu Dhabi TV HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8958.ts
-#EXTINF:-1,Aden TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/15917.ts
-#EXTINF:-1,Afak ARB
-http://mypanel.tv:8080/live/nb/nb2017/14680.ts
-#EXTINF:-1,Afrah TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14748.ts
-#EXTINF:-1,Aghapy TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14679.ts
-#EXTINF:-1,Ajial ARB
-http://mypanel.tv:8080/live/nb/nb2017/14678.ts
-#EXTINF:-1,Ajman TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14677.ts
-#EXTINF:-1,Al Ahd ARB
-http://mypanel.tv:8080/live/nb/nb2017/14676.ts
-#EXTINF:-1,Al Ahly TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14675.ts
-#EXTINF:-1,Al Alam AR
-http://mypanel.tv:8080/live/nb/nb2017/8892.ts
-#EXTINF:-1,Al Anbar ARB
-http://mypanel.tv:8080/live/nb/nb2017/14665.ts
-#EXTINF:-1,Al Anis TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14664.ts
-#EXTINF:-1,Al Anwar ARB
-http://mypanel.tv:8080/live/nb/nb2017/14663.ts
-#EXTINF:-1,Al Aoula AR
-http://mypanel.tv:8080/live/nb/nb2017/8826.ts
-#EXTINF:-1,Al Aoula Inter ARB
-http://mypanel.tv:8080/live/nb/nb2017/14875.ts
-#EXTINF:-1,Al Arabiya ARB
-http://mypanel.tv:8080/live/nb/nb2017/8895.ts
-#EXTINF:-1,Al Arabiya Al Hadath FHD AR
-http://mypanel.tv:8080/live/nb/nb2017/8896.ts
-#EXTINF:-1,Al Arrab ARB
-http://mypanel.tv:8080/live/nb/nb2017/14662.ts
-#EXTINF:-1,Al Assema 2 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14674.ts
-#EXTINF:-1,Al Assema ARB
-http://mypanel.tv:8080/live/nb/nb2017/14746.ts
-#EXTINF:-1,Al Ayam ARB
-http://mypanel.tv:8080/live/nb/nb2017/14660.ts
-#EXTINF:-1,Al Bait Baitak Cinema ARB
-http://mypanel.tv:8080/live/nb/nb2017/8897.ts
-#EXTINF:-1,Al Basira ARB
-http://mypanel.tv:8080/live/nb/nb2017/14745.ts
-#EXTINF:-1,Al Dawaeia ARB
-http://mypanel.tv:8080/live/nb/nb2017/14659.ts
-#EXTINF:-1,Al Ekhbariya AR
-http://mypanel.tv:8080/live/nb/nb2017/8898.ts
-#EXTINF:-1,Al Ekhbariya Al Soriya ARB
-http://mypanel.tv:8080/live/nb/nb2017/14863.ts
-#EXTINF:-1,Al Emarat TV HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14833.ts
-#EXTINF:-1,Al Eshraq TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14716.ts
-#EXTINF:-1,Al Fallujah ARB
-http://mypanel.tv:8080/live/nb/nb2017/14673.ts
-#EXTINF:-1,Al Ghad Al Mushreq ARB
-http://mypanel.tv:8080/live/nb/nb2017/14692.ts
-#EXTINF:-1,Al Ghad Araby ARB
-http://mypanel.tv:8080/live/nb/nb2017/14693.ts
-#EXTINF:-1,Al Ghad TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14658.ts
-#EXTINF:-1,Al Ghadeer ARB
-http://mypanel.tv:8080/live/nb/nb2017/14691.ts
-#EXTINF:-1,Al Hayah Alaan ARB
-http://mypanel.tv:8080/live/nb/nb2017/14759.ts
-#EXTINF:-1,Al Hayat 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5788.ts
-#EXTINF:-1,Al Hayat 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5787.ts
-#EXTINF:-1,Al Hayat Cinema AR
-http://mypanel.tv:8080/live/nb/nb2017/5786.ts
-#EXTINF:-1,Al Hayat Muslsalat ARB
-http://mypanel.tv:8080/live/nb/nb2017/14790.ts
-#EXTINF:-1,Al Hayat We Alnas ARB
-http://mypanel.tv:8080/live/nb/nb2017/14758.ts
-#EXTINF:-1,Azhari ARB
-http://mypanel.tv:8080/live/nb/nb2017/14698.ts
-#EXTINF:-1,B4U ARB
-http://mypanel.tv:8080/live/nb/nb2017/14836.ts
-#EXTINF:-1,B4U Aflam AR
-http://mypanel.tv:8080/live/nb/nb2017/5769.ts
-#EXTINF:-1,B4U Plus AR
-http://mypanel.tv:8080/live/nb/nb2017/5768.ts
-#EXTINF:-1,BBC Arabic AR
-http://mypanel.tv:8080/live/nb/nb2017/4110.ts
-#EXTINF:-1,BBC Arabic ARB
-http://mypanel.tv:8080/live/nb/nb2017/14865.ts
-#EXTINF:-1,Bahrain TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8910.ts
-#EXTINF:-1,Baraem ARB
-http://mypanel.tv:8080/live/nb/nb2017/8911.ts
-#EXTINF:-1,Belody Aflam ARB
-http://mypanel.tv:8080/live/nb/nb2017/14795.ts
-#EXTINF:-1,Belqees ARB
-http://mypanel.tv:8080/live/nb/nb2017/14697.ts
-#EXTINF:-1,Berbere TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14883.ts
-#EXTINF:-1,Beur TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14882.ts
-#EXTINF:-1,Bzaf TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8912.ts
-#EXTINF:-1,CBC AR
-http://mypanel.tv:8080/live/nb/nb2017/5834.ts
-#EXTINF:-1,CBC Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5832.ts
-#EXTINF:-1,CBC Extra AR
-http://mypanel.tv:8080/live/nb/nb2017/5833.ts
-#EXTINF:-1,CBC Sofra AR
-http://mypanel.tv:8080/live/nb/nb2017/5831.ts
-#EXTINF:-1,CJ TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14696.ts
-#EXTINF:-1,CNA ARB
-http://mypanel.tv:8080/live/nb/nb2017/14767.ts
-#EXTINF:-1,CNBC Arabia ARB
-http://mypanel.tv:8080/live/nb/nb2017/14859.ts
-#EXTINF:-1,CNN Arabic ARB
-http://mypanel.tv:8080/live/nb/nb2017/14858.ts
-#EXTINF:-1,CTV ARB
-http://mypanel.tv:8080/live/nb/nb2017/16346.ts
-#EXTINF:-1,Cairo Cinema AR
-http://mypanel.tv:8080/live/nb/nb2017/5836.ts
-#EXTINF:-1,Cairo Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5835.ts
-#EXTINF:-1,Canal Algerie AR
-http://mypanel.tv:8080/live/nb/nb2017/5805.ts
-#EXTINF:-1,Carthage TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14889.ts
-#EXTINF:-1,Cartoon Network AR
-http://mypanel.tv:8080/live/nb/nb2017/5789.ts
-#EXTINF:-1,Cima ARB
-http://mypanel.tv:8080/live/nb/nb2017/14824.ts
-#EXTINF:-1,Cima Ali Baba ARB
-http://mypanel.tv:8080/live/nb/nb2017/14823.ts
-#EXTINF:-1,Cima Tube ARB
-http://mypanel.tv:8080/live/nb/nb2017/14822.ts
-#EXTINF:-1,Cinema 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5817.ts
-#EXTINF:-1,Cinema 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5816.ts
-#EXTINF:-1,Cinema Pro AR
-http://mypanel.tv:8080/live/nb/nb2017/5818.ts
-#EXTINF:-1,Cinema Tube ARB
-http://mypanel.tv:8080/live/nb/nb2017/14821.ts
-#EXTINF:-1,DMC AR
-http://mypanel.tv:8080/live/nb/nb2017/5772.ts
-#EXTINF:-1,DMC Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5771.ts
-#EXTINF:-1,DMC Sports AR
-http://mypanel.tv:8080/live/nb/nb2017/5770.ts
-#EXTINF:-1,DW Arabic TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14864.ts
-#EXTINF:-1,Darbka Cinema ARB
-http://mypanel.tv:8080/live/nb/nb2017/14808.ts
-#EXTINF:-1,Dolly Mosalsalat ARB
-http://mypanel.tv:8080/live/nb/nb2017/14794.ts
-#EXTINF:-1,Dream 1 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14801.ts
-#EXTINF:-1,Dream 2 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14800.ts
-#EXTINF:-1,Dua Channel ARB
-http://mypanel.tv:8080/live/nb/nb2017/14695.ts
-#EXTINF:-1,Dubai Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5851.ts
-#EXTINF:-1,Dubai Nour AR
-http://mypanel.tv:8080/live/nb/nb2017/8913.ts
-#EXTINF:-1,Dubai One AR
-http://mypanel.tv:8080/live/nb/nb2017/5856.ts
-#EXTINF:-1,Dubai Racing 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/8914.ts
-#EXTINF:-1,Dubai Racing AR
-http://mypanel.tv:8080/live/nb/nb2017/5852.ts
-#EXTINF:-1,Dubai Sport 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/5854.ts
-#EXTINF:-1,Dubai Sport 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5853.ts
-#EXTINF:-1,Dubai Sport AR
-http://mypanel.tv:8080/live/nb/nb2017/5855.ts
-#EXTINF:-1,Dubai TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8915.ts
-#EXTINF:-1,Dubai Zaman ARB
-http://mypanel.tv:8080/live/nb/nb2017/14834.ts
-#EXTINF:-1,Dzair News AR
-http://mypanel.tv:8080/live/nb/nb2017/8916.ts
-#EXTINF:-1,Dzair TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14881.ts
-#EXTINF:-1,ENTV Algerie ARB
-http://mypanel.tv:8080/live/nb/nb2017/14878.ts
-#EXTINF:-1,Echorouk Benna AR
-http://mypanel.tv:8080/live/nb/nb2017/8918.ts
-#EXTINF:-1,Echorouk News ARB
-http://mypanel.tv:8080/live/nb/nb2017/14880.ts
-#EXTINF:-1,M Cinema TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14793.ts
-#EXTINF:-1,M Classic ARB
-http://mypanel.tv:8080/live/nb/nb2017/14798.ts
-#EXTINF:-1,M Tunisia AR
-http://mypanel.tv:8080/live/nb/nb2017/5783.ts
-#EXTINF:-1,MBA Masr 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5867.ts
-#EXTINF:-1,MBC 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5876.ts
-#EXTINF:-1,MBC 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5875.ts
-#EXTINF:-1,MBC 2 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14845.ts
-#EXTINF:-1,MBC 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/4153.ts
-#EXTINF:-1,MBC 3 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14769.ts
-#EXTINF:-1,MBC 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5873.ts
-#EXTINF:-1,MBC 4 FHD AR
-http://mypanel.tv:8080/live/nb/nb2017/4152.ts
-#EXTINF:-1,MBC 4 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14842.ts
-#EXTINF:-1,MBC Action AR
-http://mypanel.tv:8080/live/nb/nb2017/5871.ts
-#EXTINF:-1,MBC Action HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14844.ts
-#EXTINF:-1,MBC Bollywood AR
-http://mypanel.tv:8080/live/nb/nb2017/5869.ts
-#EXTINF:-1,MBC Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5870.ts
-#EXTINF:-1,MBC Drama HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14841.ts
-#EXTINF:-1,MBC Drama Plus ARB
-http://mypanel.tv:8080/live/nb/nb2017/14847.ts
-#EXTINF:-1,MBC HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14846.ts
-#EXTINF:-1,MBC Masr 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/4148.ts
-#EXTINF:-1,MBC Masr AR
-http://mypanel.tv:8080/live/nb/nb2017/5868.ts
-#EXTINF:-1,MBC Max AR
-http://mypanel.tv:8080/live/nb/nb2017/5872.ts
-#EXTINF:-1,MBC Max HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14843.ts
-#EXTINF:-1,MBC Pro Sport 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5880.ts
-#EXTINF:-1,MBC Pro Sport 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5879.ts
-#EXTINF:-1,MBC Pro Sport 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/5878.ts
-#EXTINF:-1,MBC Pro Sport 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5877.ts
-#EXTINF:-1,MBC Sports 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/8847.ts
-#EXTINF:-1,MBC Sports 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/8846.ts
-#EXTINF:-1,MBC Sports Pro1 AR
-http://mypanel.tv:8080/live/nb/nb2017/8933.ts
-#EXTINF:-1,MBC Sports Pro2 AR
-http://mypanel.tv:8080/live/nb/nb2017/8934.ts
-#EXTINF:-1,MBC Sports Pro3 AR
-http://mypanel.tv:8080/live/nb/nb2017/8935.ts
-#EXTINF:-1,MBC Variety AR
-http://mypanel.tv:8080/live/nb/nb2017/5866.ts
-#EXTINF:-1,MTV Lebanon +2 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14785.ts
-#EXTINF:-1,MTV Lebanon AR
-http://mypanel.tv:8080/live/nb/nb2017/5775.ts
-#EXTINF:-1,MTV Lebanon ARB
-http://mypanel.tv:8080/live/nb/nb2017/14786.ts
-#EXTINF:-1,Majid Kids AR
-http://mypanel.tv:8080/live/nb/nb2017/8931.ts
-#EXTINF:-1,Maroc ARB
-http://mypanel.tv:8080/live/nb/nb2017/14876.ts
-#EXTINF:-1,Maroc Tamazight ARB
-http://mypanel.tv:8080/live/nb/nb2017/14872.ts
-#EXTINF:-1,Masr Al Hayah ARB
-http://mypanel.tv:8080/live/nb/nb2017/14773.ts
-#EXTINF:-1,Mazazik Tv ARB
-http://mypanel.tv:8080/live/nb/nb2017/14731.ts
-#EXTINF:-1,Medi 1 Sat AR
-http://mypanel.tv:8080/live/nb/nb2017/8824.ts
-#EXTINF:-1,Mehwar TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14772.ts
-#EXTINF:-1,Mekka AR
-http://mypanel.tv:8080/live/nb/nb2017/8936.ts
-#EXTINF:-1,Menhag Alnbowa ARB
-http://mypanel.tv:8080/live/nb/nb2017/14728.ts
-#EXTINF:-1,Miracle TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14688.ts
-#EXTINF:-1,Mody Kids ARB
-http://mypanel.tv:8080/live/nb/nb2017/14764.ts
-#EXTINF:-1,Moga Cinema ARB
-http://mypanel.tv:8080/live/nb/nb2017/14806.ts
-#EXTINF:-1,Moga Comedy AR
-http://mypanel.tv:8080/live/nb/nb2017/5806.ts
-#EXTINF:-1,Mosalsalat Tube ARB
-http://mypanel.tv:8080/live/nb/nb2017/14805.ts
-#EXTINF:-1,NBN Lebanon +2 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14782.ts
-#EXTINF:-1,NBN Lebanon +4 ARB
-http://mypanel.tv:8080/live/nb/nb2017/14780.ts
-#EXTINF:-1,NBN Lebanon ARB
-http://mypanel.tv:8080/live/nb/nb2017/14783.ts
-#EXTINF:-1,NBN TV AR
-http://mypanel.tv:8080/live/nb/nb2017/5778.ts
-#EXTINF:-1,Nabaa TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8937.ts
-#EXTINF:-1,Nahar Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/8938.ts
-#EXTINF:-1,National Geo Abu Dhabi AR
-http://mypanel.tv:8080/live/nb/nb2017/8939.ts
-#EXTINF:-1,Nessma AR
-http://mypanel.tv:8080/live/nb/nb2017/8940.ts
-#EXTINF:-1,Nile Cinema AR
-http://mypanel.tv:8080/live/nb/nb2017/5861.ts
-#EXTINF:-1,Nile Comedy AR
-http://mypanel.tv:8080/live/nb/nb2017/5863.ts
-#EXTINF:-1,Nile Culture AR
-http://mypanel.tv:8080/live/nb/nb2017/5857.ts
-#EXTINF:-1,Nile Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5864.ts
-#EXTINF:-1,Nile Family AR
-http://mypanel.tv:8080/live/nb/nb2017/5862.ts
-#EXTINF:-1,Nile Life AR
-http://mypanel.tv:8080/live/nb/nb2017/5858.ts
-#EXTINF:-1,Nile News AR
-http://mypanel.tv:8080/live/nb/nb2017/5859.ts
-#EXTINF:-1,Nile Sport AR
-http://mypanel.tv:8080/live/nb/nb2017/5860.ts
-#EXTINF:-1,Nile TV AR
-http://mypanel.tv:8080/live/nb/nb2017/5865.ts
-#EXTINF:-1,Noon TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8941.ts
-#EXTINF:-1,Noor Dubai AR
-http://mypanel.tv:8080/live/nb/nb2017/5791.ts
-#EXTINF:-1,Nour El Keddisin ARB
-http://mypanel.tv:8080/live/nb/nb2017/14754.ts
-#EXTINF:-1,Nour El Sham ARB
-http://mypanel.tv:8080/live/nb/nb2017/14755.ts
-#EXTINF:-1,Nour TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14756.ts
-#EXTINF:-1,Noursat Alchabab ARB
-http://mypanel.tv:8080/live/nb/nb2017/14753.ts
-#EXTINF:-1,Numidia News ARB
-http://mypanel.tv:8080/live/nb/nb2017/14879.ts
-#EXTINF:-1,ON Drama ARB
-http://mypanel.tv:8080/live/nb/nb2017/14803.ts
-#EXTINF:-1,ON E HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14802.ts
-#EXTINF:-1,ON Live HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14804.ts
-#EXTINF:-1,OSN AL Safwa ARB
-http://mypanel.tv:8080/live/nb/nb2017/8884.ts
-#EXTINF:-1,ON Sport ARB
-http://mypanel.tv:8080/live/nb/nb2017/21080.ts
-#EXTINF:-1,OSN Action 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5901.ts
-#EXTINF:-1,OSN Action AR
-http://mypanel.tv:8080/live/nb/nb2017/5881.ts
-#EXTINF:-1,OSN Al Yawm AR
-http://mypanel.tv:8080/live/nb/nb2017/8879.ts
-#EXTINF:-1,OSN Alfa Alyawm ARB
-http://mypanel.tv:8080/live/nb/nb2017/5902.ts
-#EXTINF:-1,OSN Alkass Sport 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5888.ts
-#EXTINF:-1,OSN Alkass Sport 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5887.ts
-#EXTINF:-1,OSN Alkass Sport 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5886.ts
-#EXTINF:-1,OSN Alkass Sport 5 AR
-http://mypanel.tv:8080/live/nb/nb2017/5885.ts
-#EXTINF:-1,OSN Animal Planet AR
-http://mypanel.tv:8080/live/nb/nb2017/5911.ts
-#EXTINF:-1,OSN Art Aflam 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/8883.ts
-#EXTINF:-1,OSN Art Aflam 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/8882.ts
-#EXTINF:-1,OSN Art Cinema ARB
-http://mypanel.tv:8080/live/nb/nb2017/8881.ts
-#EXTINF:-1,OSN Box Office 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5897.ts
-#EXTINF:-1,OSN Box Office 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5896.ts
-#EXTINF:-1,OSN Box Office 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/5895.ts
-#EXTINF:-1,OSN CBC Reality AR
-http://mypanel.tv:8080/live/nb/nb2017/8857.ts
-#EXTINF:-1,OSN Cinema 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/8856.ts
-#EXTINF:-1,OSN Demand Extra 1 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8867.ts
-#EXTINF:-1,OSN Demand Extra 2 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8866.ts
-#EXTINF:-1,OSN Discovery ID FHD ARB
-http://mypanel.tv:8080/live/nb/nb2017/5903.ts
-#EXTINF:-1,OSN Discovery Science ARB
-http://mypanel.tv:8080/live/nb/nb2017/5894.ts
-#EXTINF:-1,OSN First ARB
-http://mypanel.tv:8080/live/nb/nb2017/5904.ts
-#EXTINF:-1,OSN First Comedy ARB
-http://mypanel.tv:8080/live/nb/nb2017/5915.ts
-#EXTINF:-1,OSN Home Cinema 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/4133.ts
-#EXTINF:-1,OSN Home Cinema 10 AR
-http://mypanel.tv:8080/live/nb/nb2017/8878.ts
-#EXTINF:-1,OSN Home Cinema 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/4132.ts
-#EXTINF:-1,OSN Home Cinema 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/8877.ts
-#EXTINF:-1,OSN Home Cinema 5 AR
-http://mypanel.tv:8080/live/nb/nb2017/8876.ts
-#EXTINF:-1,OSN Home Cinema 6 AR
-http://mypanel.tv:8080/live/nb/nb2017/8875.ts
-#EXTINF:-1,OSN Home Cinema 7 AR
-http://mypanel.tv:8080/live/nb/nb2017/8874.ts
-#EXTINF:-1,OSN Home Cinema 8 AR
-http://mypanel.tv:8080/live/nb/nb2017/8873.ts
-#EXTINF:-1,OSN Home Cinema 9 AR
-http://mypanel.tv:8080/live/nb/nb2017/8872.ts
-#EXTINF:-1,OSN MBC Drama ARB
-http://mypanel.tv:8080/live/nb/nb2017/5912.ts
-#EXTINF:-1,OSN MBC Plus Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/5906.ts
-#EXTINF:-1,OSN Mosalsalat AR
-http://mypanel.tv:8080/live/nb/nb2017/8850.ts
-#EXTINF:-1,OSN Movies  2 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8842.ts
-#EXTINF:-1,OSN Movies Action  2 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8871.ts
-#EXTINF:-1,OSN Series First HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8844.ts
-#EXTINF:-1,OSN Sports 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5884.ts
-#EXTINF:-1,OSN Sports 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/5883.ts
-#EXTINF:-1,OSN Sports 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5882.ts
-#EXTINF:-1,OSN Star Movies ARB
-http://mypanel.tv:8080/live/nb/nb2017/5914.ts
-#EXTINF:-1,OSN Star World ARB
-http://mypanel.tv:8080/live/nb/nb2017/5913.ts
-#EXTINF:-1,OSN WWE HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/8860.ts
-#EXTINF:-1,OSN Ya Hala Al Oula 2 FHD AR
-http://mypanel.tv:8080/live/nb/nb2017/8848.ts
-#EXTINF:-1,OSN Ya Hala Drama ARB
-http://mypanel.tv:8080/live/nb/nb2017/5908.ts
-#EXTINF:-1,OSN Ya Hala FHD ARB
-http://mypanel.tv:8080/live/nb/nb2017/8855.ts
-#EXTINF:-1,OSN YaHala AlOula HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/8861.ts
-#EXTINF:-1,OSN Yahala Cinema HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8862.ts
-#EXTINF:-1,RT Arabic AR
-http://mypanel.tv:8080/live/nb/nb2017/4145.ts
-#EXTINF:-1,Rotana ARB
-http://mypanel.tv:8080/live/nb/nb2017/14832.ts
-#EXTINF:-1,Rotana Aflam ARB
-http://mypanel.tv:8080/live/nb/nb2017/14831.ts
-#EXTINF:-1,Rotana Cinema AR
-http://mypanel.tv:8080/live/nb/nb2017/5795.ts
-#EXTINF:-1,Rotana Cinema EGY ARB
-http://mypanel.tv:8080/live/nb/nb2017/14830.ts
-#EXTINF:-1,Rotana Cinema HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14828.ts
-#EXTINF:-1,Rotana Cinema KSA ARB
-http://mypanel.tv:8080/live/nb/nb2017/14829.ts
-#EXTINF:-1,Rotana Classic AR
-http://mypanel.tv:8080/live/nb/nb2017/5796.ts
-#EXTINF:-1,Rotana Classic HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14827.ts
-#EXTINF:-1,Rotana Clip AR
-http://mypanel.tv:8080/live/nb/nb2017/5798.ts
-#EXTINF:-1,Rotana Khalijiah AR
-http://mypanel.tv:8080/live/nb/nb2017/5797.ts
-#EXTINF:-1,Rotana Khalyjia AR
-http://mypanel.tv:8080/live/nb/nb2017/8942.ts
-#EXTINF:-1,Rotana Masria HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14826.ts
-#EXTINF:-1,Rotana Masriya AR
-http://mypanel.tv:8080/live/nb/nb2017/5793.ts
-#EXTINF:-1,Rotana Music AR
-http://mypanel.tv:8080/live/nb/nb2017/5799.ts
-#EXTINF:-1,Russia Alyaum ARB
-http://mypanel.tv:8080/live/nb/nb2017/14861.ts
-#EXTINF:-1,Sada El Balad  ARB
-http://mypanel.tv:8080/live/nb/nb2017/8944.ts
-#EXTINF:-1,Sada Elbalad Drama AR
-http://mypanel.tv:8080/live/nb/nb2017/8945.ts
-#EXTINF:-1,Sahar Kurdish ARB
-http://mypanel.tv:8080/live/nb/nb2017/14750.ts
-#EXTINF:-1,Sahara Documentaire TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14849.ts
-#EXTINF:-1,Sama Dubai AR
-http://mypanel.tv:8080/live/nb/nb2017/5850.ts
-#EXTINF:-1,Sama TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/17466.ts
-#EXTINF:-1,Sama Yemen ARB
-http://mypanel.tv:8080/live/nb/nb2017/15920.ts
-#EXTINF:-1,Samira TV AR
-http://mypanel.tv:8080/live/nb/nb2017/8946.ts
-#EXTINF:-1,Saudi 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5828.ts
-#EXTINF:-1,Saudi 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5827.ts
-#EXTINF:-1,Saudi 24 AR
-http://mypanel.tv:8080/live/nb/nb2017/5826.ts
-#EXTINF:-1,Saudi Sports AR
-http://mypanel.tv:8080/live/nb/nb2017/5829.ts
-#EXTINF:-1,SeeVii Al Aoula HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8827.ts
-#EXTINF:-1,Semsem AR
-http://mypanel.tv:8080/live/nb/nb2017/8947.ts
-#EXTINF:-1,Shabab TV ARB
-http://mypanel.tv:8080/live/nb/nb2017/14721.ts
-#EXTINF:-1,Yemen Today ARB
-http://mypanel.tv:8080/live/nb/nb2017/15918.ts
-#EXTINF:-1,Zee Aflam AR
-http://mypanel.tv:8080/live/nb/nb2017/8959.ts
-#EXTINF:-1,Zee Alwan AR
-http://mypanel.tv:8080/live/nb/nb2017/8960.ts
-#EXTINF:-1,Zitouna AR
-http://mypanel.tv:8080/live/nb/nb2017/8956.ts
-#EXTINF:-1,Zweina Baladna ARB
-http://mypanel.tv:8080/live/nb/nb2017/14871.ts
-#EXTINF:-1,beIN Gourmet HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/14839.ts
-#EXTINF:-1,beIN Junior ARB
-http://mypanel.tv:8080/live/nb/nb2017/14763.ts
-#EXTINF:-1,beIN Movie 1 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/4137.ts
-#EXTINF:-1,beIN Movie 2 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/4136.ts
-#EXTINF:-1,beIN Movie 3 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/4135.ts
-#EXTINF:-1,beIN Movie 4 HD AR
-http://mypanel.tv:8080/live/nb/nb2017/4134.ts
-#EXTINF:-1,beIN Series HD AR
-http://mypanel.tv:8080/live/nb/nb2017/8819.ts
-#EXTINF:-1,beIN Sports 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/8971.ts
-#EXTINF:-1,beIN Sports 1 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15018.ts
-#EXTINF:-1,beIN Sports 10 AR
-http://mypanel.tv:8080/live/nb/nb2017/8962.ts
-#EXTINF:-1,beIN Sports 10 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15009.ts
-#EXTINF:-1,beIN Sports 11 AR
-http://mypanel.tv:8080/live/nb/nb2017/8961.ts
-#EXTINF:-1,beIN Sports 11 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15008.ts
-#EXTINF:-1,beIN Sports 12 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15007.ts
-#EXTINF:-1,beIN Sports 12 HD English AR
-http://mypanel.tv:8080/live/nb/nb2017/8830.ts
-#EXTINF:-1,beIN Sports 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/8970.ts
-#EXTINF:-1,beIN Sports 2 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15017.ts
-#EXTINF:-1,beIN Sports 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/8969.ts
-#EXTINF:-1,beIN Sports 3 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15016.ts
-#EXTINF:-1,beIN Sports 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/8968.ts
-#EXTINF:-1,beIN Sports 4 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15015.ts
-#EXTINF:-1,beIN Sports 5 AR
-http://mypanel.tv:8080/live/nb/nb2017/8967.ts
-#EXTINF:-1,beIN Sports 5 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15014.ts
-#EXTINF:-1,beIN Sports 6 AR
-http://mypanel.tv:8080/live/nb/nb2017/8966.ts
-#EXTINF:-1,beIN Sports 6 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15013.ts
-#EXTINF:-1,beIN Sports 7 AR
-http://mypanel.tv:8080/live/nb/nb2017/8965.ts
-#EXTINF:-1,beIN Sports 7 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15012.ts
-#EXTINF:-1,beIN Sports 8 AR
-http://mypanel.tv:8080/live/nb/nb2017/8964.ts
-#EXTINF:-1,beIN Sports 8 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15011.ts
-#EXTINF:-1,beIN Sports 9 AR
-http://mypanel.tv:8080/live/nb/nb2017/8963.ts
-#EXTINF:-1,beIN Sports 9 HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15010.ts
-#EXTINF:-1,beIN Sports News HD ARB
-http://mypanel.tv:8080/live/nb/nb2017/15019.ts
-#EXTINF:-1,beiN Movies 2 AR
-http://mypanel.tv:8080/live/nb/nb2017/5847.ts
-#EXTINF:-1,beiN Movies 3 AR
-http://mypanel.tv:8080/live/nb/nb2017/5846.ts
-#EXTINF:-1,beiN Movies 4 AR
-http://mypanel.tv:8080/live/nb/nb2017/5845.ts
-#EXTINF:-1,bein Movies 1 AR
-http://mypanel.tv:8080/live/nb/nb2017/5848.ts
-#EXTINF:-1,beIN Boomerang ARB
-http://mypanel.tv:8080/live/nb/nb2017/31583.ts
-#EXTINF:-1,13Eme Rue FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5717.ts
-#EXTINF:-1,13Eme Rue HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12973.ts
-#EXTINF:-1,6Ter FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13004.ts
-#EXTINF:-1,6Ter HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5716.ts
-#EXTINF:-1,A La Carte 1 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12930.ts
-#EXTINF:-1,A La Carte 2 FR
-http://mypanel.tv:8080/live/nb/nb2017/12929.ts
-#EXTINF:-1,A La Carte 3 FR
-http://mypanel.tv:8080/live/nb/nb2017/12928.ts
-#EXTINF:-1,A La Carte 4 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12927.ts
-#EXTINF:-1,A La Carte 5 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12926.ts
-#EXTINF:-1,A La Carte 6 FR
-http://mypanel.tv:8080/live/nb/nb2017/12925.ts
-#EXTINF:-1,A La Carte 7 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12924.ts
-#EXTINF:-1,A La Carte 8 FR
-http://mypanel.tv:8080/live/nb/nb2017/12923.ts
-#EXTINF:-1,A+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/14276.ts
-#EXTINF:-1,AB3 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5714.ts
-#EXTINF:-1,AB Moteurs HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5713.ts
-#EXTINF:-1,AB1 FR
-http://mypanel.tv:8080/live/nb/nb2017/5715.ts
-#EXTINF:-1,AL Sace20 FR
-http://mypanel.tv:8080/live/nb/nb2017/8561.ts
-#EXTINF:-1,Action FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13003.ts
-#EXTINF:-1,Action FR
-http://mypanel.tv:8080/live/nb/nb2017/8629.ts
-#EXTINF:-1,Alsace 20 FR
-http://mypanel.tv:8080/live/nb/nb2017/12941.ts
-#EXTINF:-1,Animaux HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5712.ts
-#EXTINF:-1,Arte FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12862.ts
-#EXTINF:-1,Arte HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5711.ts
-#EXTINF:-1,BBlack Africa FR
-http://mypanel.tv:8080/live/nb/nb2017/14275.ts
-#EXTINF:-1,BBlack Classic FR
-http://mypanel.tv:8080/live/nb/nb2017/14274.ts
-#EXTINF:-1,BFM Business FR
-http://mypanel.tv:8080/live/nb/nb2017/5707.ts
-#EXTINF:-1,BFM Sport FR
-http://mypanel.tv:8080/live/nb/nb2017/8560.ts
-#EXTINF:-1,BFM TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5706.ts
-#EXTINF:-1,Be Curious TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12861.ts
-#EXTINF:-1,Bet HD FR
-http://mypanel.tv:8080/live/nb/nb2017/7941.ts
-#EXTINF:-1,Boing HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5705.ts
-#EXTINF:-1,Boomerang HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5704.ts
-#EXTINF:-1,Brava FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/7940.ts
-#EXTINF:-1,C Star FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13007.ts
-#EXTINF:-1,C-News FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12940.ts
-#EXTINF:-1,C8 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13006.ts
-#EXTINF:-1,C8 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5703.ts
-#EXTINF:-1,CNEWS FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16924.ts
-#EXTINF:-1,CNews FR
-http://mypanel.tv:8080/live/nb/nb2017/5661.ts
-#EXTINF:-1,CStar HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5686.ts
-#EXTINF:-1,Canal Decale HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8566.ts
-#EXTINF:-1,Canal J HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5702.ts
-#EXTINF:-1,Canal Play Live (Alliés) FR
-http://mypanel.tv:8080/live/nb/nb2017/8606.ts
-#EXTINF:-1,Canal Sport FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/8569.ts
-#EXTINF:-1,Canal+ Cinema FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12996.ts
-#EXTINF:-1,Canal+ Cinema HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5700.ts
-#EXTINF:-1,Canal+ Decale FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5699.ts
-#EXTINF:-1,Canal+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12860.ts
-#EXTINF:-1,Canal+ Family FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12970.ts
-#EXTINF:-1,Canal+ Family HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8628.ts
-#EXTINF:-1,Canal+ Famiz FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5698.ts
-#EXTINF:-1,Canal+ HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5701.ts
-#EXTINF:-1,Canal+ Series FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12995.ts
-#EXTINF:-1,Canal+ Series HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5697.ts
-#EXTINF:-1,Canal+ Sport FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16926.ts
-#EXTINF:-1,Canal+ Sport HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5696.ts
-#EXTINF:-1,Canal+Cinéma FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/8567.ts
-#EXTINF:-1,Cartoon Network FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12943.ts
-#EXTINF:-1,Cartoon Network FR
-http://mypanel.tv:8080/live/nb/nb2017/5695.ts
-#EXTINF:-1,Chasse E Peche HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5694.ts
-#EXTINF:-1,Cherie 25 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5693.ts
-#EXTINF:-1,Cine Action HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8623.ts
-#EXTINF:-1,Cine Classic HD FR
-http://mypanel.tv:8080/live/nb/nb2017/7943.ts
-#EXTINF:-1,Cine Club FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12994.ts
-#EXTINF:-1,Cine Club HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8627.ts
-#EXTINF:-1,Cine FX HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5692.ts
-#EXTINF:-1,Cine Famiz FR
-http://mypanel.tv:8080/live/nb/nb2017/8624.ts
-#EXTINF:-1,Cine+ Classic FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12969.ts
-#EXTINF:-1,Cine+ Club FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16925.ts
-#EXTINF:-1,Cine+ Emotion FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5691.ts
-#EXTINF:-1,Cine+ Famiz FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12859.ts
-#EXTINF:-1,Cine+ Frisson HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5690.ts
-#EXTINF:-1,Cine+ Polar FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5689.ts
-#EXTINF:-1,Cine+ Premier FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5688.ts
-#EXTINF:-1,Clubbing TV FR
-http://mypanel.tv:8080/live/nb/nb2017/12939.ts
-#EXTINF:-1,Comedie+ HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5687.ts
-#EXTINF:-1,Crime District FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16923.ts
-#EXTINF:-1,D8 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5684.ts
-#EXTINF:-1,Demain TV FR
-http://mypanel.tv:8080/live/nb/nb2017/12938.ts
-#EXTINF:-1,Discovery FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12997.ts
-#EXTINF:-1,Discovery FR
-http://mypanel.tv:8080/live/nb/nb2017/5683.ts
-#EXTINF:-1,Discovery Family FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16921.ts
-#EXTINF:-1,Discovery Investigation FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/9034.ts
-#EXTINF:-1,Discovery Science FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5682.ts
-#EXTINF:-1,Disney Channel +1 FR
-http://mypanel.tv:8080/live/nb/nb2017/12947.ts
-#EXTINF:-1,Disney Channel FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5681.ts
-#EXTINF:-1,Disney Cinema FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12946.ts
-#EXTINF:-1,Disney Cinema HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8617.ts
-#EXTINF:-1,Disney Junior FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5679.ts
-#EXTINF:-1,Disney Junior HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12945.ts
-#EXTINF:-1,Disney XD FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16920.ts
-#EXTINF:-1,Disney XD HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8614.ts
-#EXTINF:-1,Djazz TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/7939.ts
-#EXTINF:-1,E! Entertainment FR
-http://mypanel.tv:8080/live/nb/nb2017/5678.ts
-#EXTINF:-1,Elle Girl FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12856.ts
-#EXTINF:-1,Enorme FR
-http://mypanel.tv:8080/live/nb/nb2017/5677.ts
-#EXTINF:-1,Equidia Life HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12950.ts
-#EXTINF:-1,Equidia Live FR
-http://mypanel.tv:8080/live/nb/nb2017/5675.ts
-#EXTINF:-1,Equipe 21 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5674.ts
-#EXTINF:-1,Equipe FR
-http://mypanel.tv:8080/live/nb/nb2017/5676.ts
-#EXTINF:-1,EuroSport 1 FR
-http://mypanel.tv:8080/live/nb/nb2017/7137.ts
-#EXTINF:-1,Euronews FR
-http://mypanel.tv:8080/live/nb/nb2017/5673.ts
-#EXTINF:-1,Eurosport 1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5672.ts
-#EXTINF:-1,Eurosport 2 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5671.ts
-#EXTINF:-1,Eurosport 2 FR
-http://mypanel.tv:8080/live/nb/nb2017/12951.ts
-#EXTINF:-1,Foot + 24 FR
-http://mypanel.tv:8080/live/nb/nb2017/5670.ts
-#EXTINF:-1,France 2 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5669.ts
-#EXTINF:-1,France 24 FR
-http://mypanel.tv:8080/live/nb/nb2017/5665.ts
-#EXTINF:-1,France 24 News FR
-http://mypanel.tv:8080/live/nb/nb2017/8630.ts
-#EXTINF:-1,France 24 en Anglais FR
-http://mypanel.tv:8080/live/nb/nb2017/8559.ts
-#EXTINF:-1,France 3 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12858.ts
-#EXTINF:-1,France 3 FR
-http://mypanel.tv:8080/live/nb/nb2017/5668.ts
-#EXTINF:-1,France 4 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5667.ts
-#EXTINF:-1,France 5 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5666.ts
-#EXTINF:-1,France Info FR
-http://mypanel.tv:8080/live/nb/nb2017/12971.ts
-#EXTINF:-1,France O FR
-http://mypanel.tv:8080/live/nb/nb2017/5664.ts
-#EXTINF:-1,Game One FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16919.ts
-#EXTINF:-1,Game One FR
-http://mypanel.tv:8080/live/nb/nb2017/5663.ts
-#EXTINF:-1,Golf Channel FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16918.ts
-#EXTINF:-1,Golf+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12948.ts
-#EXTINF:-1,Gong FR
-http://mypanel.tv:8080/live/nb/nb2017/8558.ts
-#EXTINF:-1,Gulli FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16917.ts
-#EXTINF:-1,Gulli FR
-http://mypanel.tv:8080/live/nb/nb2017/8615.ts
-#EXTINF:-1,HD1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5662.ts
-#EXTINF:-1,Histoire FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16916.ts
-#EXTINF:-1,Histoire FR
-http://mypanel.tv:8080/live/nb/nb2017/8570.ts
-#EXTINF:-1,ILTV FR
-http://mypanel.tv:8080/live/nb/nb2017/12937.ts
-#EXTINF:-1,Info Sport+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12952.ts
-#EXTINF:-1,Infosport+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16915.ts
-#EXTINF:-1,Infosport+ FR
-http://mypanel.tv:8080/live/nb/nb2017/5660.ts
-#EXTINF:-1,KTO FR
-http://mypanel.tv:8080/live/nb/nb2017/5659.ts
-#EXTINF:-1,LCP FR
-http://mypanel.tv:8080/live/nb/nb2017/5655.ts
-#EXTINF:-1,LCi HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5656.ts
-#EXTINF:-1,La Chaine Normande FR
-http://mypanel.tv:8080/live/nb/nb2017/5658.ts
-#EXTINF:-1,La Une HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5657.ts
-#EXTINF:-1,Luxe TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16913.ts
-#EXTINF:-1,M6 Boutique HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12974.ts
-#EXTINF:-1,M6 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5653.ts
-#EXTINF:-1,M6 Music FR
-http://mypanel.tv:8080/live/nb/nb2017/5654.ts
-#EXTINF:-1,MCM FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16912.ts
-#EXTINF:-1,MCM HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12967.ts
-#EXTINF:-1,MCM Top FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16911.ts
-#EXTINF:-1,MTV Base HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12966.ts
-#EXTINF:-1,MTV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/7942.ts
-#EXTINF:-1,MTV Hits FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16910.ts
-#EXTINF:-1,MTV Hits FR
-http://mypanel.tv:8080/live/nb/nb2017/8568.ts
-#EXTINF:-1,MTV Music FR
-http://mypanel.tv:8080/live/nb/nb2017/12965.ts
-#EXTINF:-1,MY ZEN TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16907.ts
-#EXTINF:-1,Mangas FR
-http://mypanel.tv:8080/live/nb/nb2017/8616.ts
-#EXTINF:-1,Mezzo FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5652.ts
-#EXTINF:-1,Movies 1 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5651.ts
-#EXTINF:-1,Movies 2  HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5650.ts
-#EXTINF:-1,Movies 4 FR
-http://mypanel.tv:8080/live/nb/nb2017/5649.ts
-#EXTINF:-1,Movies 5 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5648.ts
-#EXTINF:-1,Movies 6 FR
-http://mypanel.tv:8080/live/nb/nb2017/5647.ts
-#EXTINF:-1,Movies 7 FR
-http://mypanel.tv:8080/live/nb/nb2017/5646.ts
-#EXTINF:-1,My Cuisine FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16908.ts
-#EXTINF:-1,NRJ 12 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5641.ts
-#EXTINF:-1,NRJ Hits HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5640.ts
-#EXTINF:-1,NT1 FR
-http://mypanel.tv:8080/live/nb/nb2017/5639.ts
-#EXTINF:-1,Nat Geo HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8632.ts
-#EXTINF:-1,Nat Geo Wild FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16906.ts
-#EXTINF:-1,Nat Geo Wild HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5645.ts
-#EXTINF:-1,National Geo FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12999.ts
-#EXTINF:-1,National Geographic FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16905.ts
-#EXTINF:-1,National Geographic HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5644.ts
-#EXTINF:-1,Nickelodeon +1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16904.ts
-#EXTINF:-1,Nickelodeon 4 Teen FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16903.ts
-#EXTINF:-1,Nickelodeon FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16902.ts
-#EXTINF:-1,Nickelodeon FR
-http://mypanel.tv:8080/live/nb/nb2017/5643.ts
-#EXTINF:-1,Nickelodeon Junior FR
-http://mypanel.tv:8080/live/nb/nb2017/5642.ts
-#EXTINF:-1,Non Stop People FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16901.ts
-#EXTINF:-1,Numero 23 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5638.ts
-#EXTINF:-1,Polar+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/14277.ts
-#EXTINF:-1,RFM HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12964.ts
-#EXTINF:-1,RMC Decouverte FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5621.ts
-#EXTINF:-1,RTL 9 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5620.ts
-#EXTINF:-1,RTL9 FR
-http://mypanel.tv:8080/live/nb/nb2017/7945.ts
-#EXTINF:-1,RTS Deux FR
-http://mypanel.tv:8080/live/nb/nb2017/5618.ts
-#EXTINF:-1,RTS Un HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5619.ts
-#EXTINF:-1,SFR Sport 1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/8636.ts
-#EXTINF:-1,SFR Sport 2 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8635.ts
-#EXTINF:-1,SFR Sport 3 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/8634.ts
-#EXTINF:-1,SFR Sport 5 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12962.ts
-#EXTINF:-1,Salle de cinéma (Les Gardiens de la Galaxie 2) FR
-http://mypanel.tv:8080/live/nb/nb2017/8556.ts
-#EXTINF:-1,Science Et Vie TV HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5615.ts
-#EXTINF:-1,Science et Vie FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16894.ts
-#EXTINF:-1,Season FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16893.ts
-#EXTINF:-1,Seasons HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5617.ts
-#EXTINF:-1,Serie Club FR
-http://mypanel.tv:8080/live/nb/nb2017/8622.ts
-#EXTINF:-1,Stingray Brava FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12933.ts
-#EXTINF:-1,Syfy FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12968.ts
-#EXTINF:-1,Syfy FR
-http://mypanel.tv:8080/live/nb/nb2017/5614.ts
-#EXTINF:-1,Série Club FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16892.ts
-#EXTINF:-1,TCM Cinema FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13001.ts
-#EXTINF:-1,TCM Cinema FR
-http://mypanel.tv:8080/live/nb/nb2017/8621.ts
-#EXTINF:-1,TCM FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5613.ts
-#EXTINF:-1,TF1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12857.ts
-#EXTINF:-1,TF1 FR
-http://mypanel.tv:8080/live/nb/nb2017/5610.ts
-#EXTINF:-1,TMC FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5607.ts
-#EXTINF:-1,TV 5 Monde FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5604.ts
-#EXTINF:-1,TV 5 Monde FR
-http://mypanel.tv:8080/live/nb/nb2017/8631.ts
-#EXTINF:-1,TV Breizh FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5605.ts
-#EXTINF:-1,TV8 Mont Blanc FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16885.ts
-#EXTINF:-1,Tele Sambre FR
-http://mypanel.tv:8080/live/nb/nb2017/8557.ts
-#EXTINF:-1,Tele Toon Plus FR
-http://mypanel.tv:8080/live/nb/nb2017/5612.ts
-#EXTINF:-1,Teva FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13002.ts
-#EXTINF:-1,Teva FR
-http://mypanel.tv:8080/live/nb/nb2017/5611.ts
-#EXTINF:-1,Tiji HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5609.ts
-#EXTINF:-1,Toonami FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16890.ts
-#EXTINF:-1,Toute L Historie FR
-http://mypanel.tv:8080/live/nb/nb2017/5606.ts
-#EXTINF:-1,Toute l'Histoire FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13000.ts
-#EXTINF:-1,Trace Africa FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16889.ts
-#EXTINF:-1,Trace Sport Stars FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16888.ts
-#EXTINF:-1,Trace Tropical FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16887.ts
-#EXTINF:-1,Trace Urban FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16886.ts
-#EXTINF:-1,Trace Urban HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12963.ts
-#EXTINF:-1,Trek FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/13005.ts
-#EXTINF:-1,Trek FR
-http://mypanel.tv:8080/live/nb/nb2017/5608.ts
-#EXTINF:-1,TéléToon+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16891.ts
-#EXTINF:-1,Téva HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12949.ts
-#EXTINF:-1,Ushuaia TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5603.ts
-#EXTINF:-1,Viceland FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16884.ts
-#EXTINF:-1,Virgin Musik HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8564.ts
-#EXTINF:-1,Vosges Télévision HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12932.ts
-#EXTINF:-1,Voyage FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16883.ts
-#EXTINF:-1,Voyage TV HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5602.ts
-#EXTINF:-1,W9 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5601.ts
-#EXTINF:-1,Weo HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5600.ts
-#EXTINF:-1,Zouzous FR
-http://mypanel.tv:8080/live/nb/nb2017/5599.ts
-#EXTINF:-1,beIN Sports 1 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5710.ts
-#EXTINF:-1,beIN Sports 1 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12961.ts
-#EXTINF:-1,beIN Sports 2 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12958.ts
-#EXTINF:-1,beIN Sports 2 FR
-http://mypanel.tv:8080/live/nb/nb2017/12959.ts
-#EXTINF:-1,beIN Sports 2 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5709.ts
-#EXTINF:-1,beIN Sports 3 FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5708.ts
-#EXTINF:-1,beIN Sports 3 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12957.ts
-#EXTINF:-1,beIN Sports 4 Max FR
-http://mypanel.tv:8080/live/nb/nb2017/8562.ts
-#EXTINF:-1,beIN Sports 5 Max FR
-http://mypanel.tv:8080/live/nb/nb2017/8539.ts
-#EXTINF:-1,beIN Sports 6 Max FR
-http://mypanel.tv:8080/live/nb/nb2017/8538.ts
-#EXTINF:-1,beIN Sports 7 Max FR
-http://mypanel.tv:8080/live/nb/nb2017/8537.ts
-#EXTINF:-1,beIN Sports Max 10 FR
-http://mypanel.tv:8080/live/nb/nb2017/12953.ts
-#EXTINF:-1,beIN Sports Max 8 FR
-http://mypanel.tv:8080/live/nb/nb2017/12956.ts
-#EXTINF:-1,beIN Sports Max 8 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/12955.ts
-#EXTINF:-1,beIN Sports Max 9 FR
-http://mypanel.tv:8080/live/nb/nb2017/12954.ts
-#EXTINF:-1,i24NEWS FR
-http://mypanel.tv:8080/live/nb/nb2017/12931.ts
-#EXTINF:-1,NollyWood FR
-http://mypanel.tv:8080/live/nb/nb2017/17514.ts
-#EXTINF:-1,########## Germany ##########
-http://mypanel.tv:8080/live/nb/nb2017/6267.ts
-#EXTINF:-1,Ard DE
-http://mypanel.tv:8080/live/nb/nb2017/6262.ts
-#EXTINF:-1,Das Erste DE
-http://mypanel.tv:8080/live/nb/nb2017/6256.ts
-#EXTINF:-1,ZDF HD DE
-http://mypanel.tv:8080/live/nb/nb2017/6151.ts
-#EXTINF:-1,ZDF DE
-http://mypanel.tv:8080/live/nb/nb2017/17011.ts
-#EXTINF:-1,ZDF Neo HD DE
-http://mypanel.tv:8080/live/nb/nb2017/17304.ts
-#EXTINF:-1,RTL HD DE
-http://mypanel.tv:8080/live/nb/nb2017/6216.ts
-#EXTINF:-1,RTL FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/13565.ts
-#EXTINF:-1,Sat.1 FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6210.ts
-#EXTINF:-1,Pro Sieben FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/8235.ts
-#EXTINF:-1,VOX DE
-http://mypanel.tv:8080/live/nb/nb2017/6153.ts
-#EXTINF:-1,VOX FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/13553.ts
-#EXTINF:-1,Pro 7 FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6220.ts
-#EXTINF:-1,Kabel 1 FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6242.ts
-#EXTINF:-1,RTL II You DE
-http://mypanel.tv:8080/live/nb/nb2017/13136.ts
-#EXTINF:-1,RTL 2 FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6215.ts
-#EXTINF:-1,RTL Nitro HD DE
-http://mypanel.tv:8080/live/nb/nb2017/13137.ts
-#EXTINF:-1,RTL Nitro FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6212.ts
-#EXTINF:-1,RTL Passion DE
-http://mypanel.tv:8080/live/nb/nb2017/8219.ts
-#EXTINF:-1,RTL Plus DE
-http://mypanel.tv:8080/live/nb/nb2017/9152.ts
-#EXTINF:-1,RTL Crime FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6214.ts
-#EXTINF:-1,RTL Crime DE
-http://mypanel.tv:8080/live/nb/nb2017/17012.ts
-#EXTINF:-1,RTL Living DE
-http://mypanel.tv:8080/live/nb/nb2017/6213.ts
-#EXTINF:-1,Sat1 Emotion DE
-http://mypanel.tv:8080/live/nb/nb2017/13135.ts
-#EXTINF:-1,Sat1 Gold FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6209.ts
-#EXTINF:-1,Pro 7 Fun FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6219.ts
-#EXTINF:-1,Pro Sieben Fun HD DE
-http://mypanel.tv:8080/live/nb/nb2017/13142.ts
-#EXTINF:-1,Pro 7 Max FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6218.ts
-#EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/8234.ts
-#EXTINF:-1,Kabel 1 Classic HD DE
-http://mypanel.tv:8080/live/nb/nb2017/9151.ts
-#EXTINF:-1,Sixx FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6207.ts
-#EXTINF:-1,Tele 5 HD DE
-http://mypanel.tv:8080/live/nb/nb2017/9150.ts
-#EXTINF:-1,Dmax FHD DE
-http://mypanel.tv:8080/live/nb/nb2017/6249.ts
-#EXTINF:-1,Servus TV HD DE
-http://mypanel.tv:8080/live/nb/nb2017/6208.ts
-#EXTINF:-1,Arte DE
-http://mypanel.tv:8080/live/nb/nb2017/6261.ts
-#EXTINF:-1,Arte HD DE
-http://mypanel.tv:8080/live/nb/nb2017/13172.ts
-#EXTINF:-1,NDR HD DE
-http://mypanel.tv:8080/live/nb/nb2017/6225.ts
-#EXTINF:-1,OL TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16900.ts
-#EXTINF:-1,OLTV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5633.ts
-#EXTINF:-1,OM TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16899.ts
-#EXTINF:-1,ONE TV FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16898.ts
-#EXTINF:-1,Ofive TV FR
-http://mypanel.tv:8080/live/nb/nb2017/12934.ts
-#EXTINF:-1,Orange Cinema 1 FR
-http://mypanel.tv:8080/live/nb/nb2017/13023.ts
-#EXTINF:-1,Orange Cinema 2 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/13022.ts
-#EXTINF:-1,Orange Cinema 3 FR
-http://mypanel.tv:8080/live/nb/nb2017/13021.ts
-#EXTINF:-1,Orange Cinema 4 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/13020.ts
-#EXTINF:-1,Orange Cinema 5 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/13019.ts
-#EXTINF:-1,Orange Cinema 6 HD FR
-http://mypanel.tv:8080/live/nb/nb2017/13018.ts
-#EXTINF:-1,Orange Cinema Action FR
-http://mypanel.tv:8080/live/nb/nb2017/5631.ts
-#EXTINF:-1,Orange Cinema Aventure FR
-http://mypanel.tv:8080/live/nb/nb2017/5630.ts
-#EXTINF:-1,Orange Cinema CEst Fait HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5629.ts
-#EXTINF:-1,Orange Cinema FR
-http://mypanel.tv:8080/live/nb/nb2017/5632.ts
-#EXTINF:-1,Paramount Channel FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16896.ts
-#EXTINF:-1,Paramount Channel HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5627.ts
-#EXTINF:-1,Paramount Decale FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/16895.ts
-#EXTINF:-1,Paris Premiere FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5626.ts
-#EXTINF:-1,Piwi HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5625.ts
-#EXTINF:-1,Piwi+ FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12944.ts
-#EXTINF:-1,Planete A&E HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8563.ts
-#EXTINF:-1,Planete Plus CI FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/5622.ts
-#EXTINF:-1,Planete+  A&E FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12998.ts
-#EXTINF:-1,Planete+ HD FR
-http://mypanel.tv:8080/live/nb/nb2017/5624.ts
-#EXTINF:-1,Planete-HD FR
-http://mypanel.tv:8080/live/nb/nb2017/8572.ts
-#EXTINF:-1,Planète+ Crime Investigation FHD FR
-http://mypanel.tv:8080/live/nb/nb2017/12942.ts
+#EXTINF:-1,DE: 13TH STREET
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9224.ts
+#EXTINF:-1,DE: 13TH STREET HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9223.ts
+#EXTINF:-1,DE: 3 SAT
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9222.ts
+#EXTINF:-1,DE: ARD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9221.ts
+#EXTINF:-1,DE: ARTE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9220.ts
+#EXTINF:-1,DE: ARTE HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9219.ts
+#EXTINF:-1,DE: DISCOVERY
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9210.ts
+#EXTINF:-1,DE: E! ENTERTAINM ENTERTAINM
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9201.ts
+#EXTINF:-1,DE: E! ENTERTAINM HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9200.ts
+#EXTINF:-1,DE: NAT GEO
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9171.ts
+#EXTINF:-1,DE: NAT GEO WILLD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9170.ts
+#EXTINF:-1,DE: QVC DEUTSCHLAND
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9159.ts
+#EXTINF:-1,DE: BOOMERANG
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9216.ts
+#EXTINF:-1,DE: CLASSICA
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9213.ts
+#EXTINF:-1,DE: DAS ERSTE HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9211.ts
+#EXTINF:-1,DE: DMAX
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9203.ts
+#EXTINF:-1,DE: DMAX HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9202.ts
+#EXTINF:-1,DE: EURONEWS HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9199.ts
+#EXTINF:-1,DE: FC BAYERN TV Full HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9192.ts
+#EXTINF:-1,DE: FC BAYERN TV HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9191.ts
+#EXTINF:-1,DE: GOLDSTAR TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9183.ts
+#EXTINF:-1,DE: HEIMATKANAL
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9182.ts
+#EXTINF:-1,DE: HISTORY CHANNELS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9181.ts
+#EXTINF:-1,DE: JUKEBOX
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9180.ts
+#EXTINF:-1,DE: KABEL EINS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9179.ts
+#EXTINF:-1,DE: KABEL EINS DOKU
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9178.ts
+#EXTINF:-1,DE: KIKA
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9177.ts
+#EXTINF:-1,DE: KIKA HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9176.ts
+#EXTINF:-1,DE: KINOWELT TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9175.ts
+#EXTINF:-1,DE: MCM POP
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9174.ts
+#EXTINF:-1,DE: VH1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9063.ts
+#EXTINF:-1,DE: VH1 CLASSIC
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9062.ts
+#EXTINF:-1,DE: N-TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9172.ts
+#EXTINF:-1,DE: ORF 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9167.ts
+#EXTINF:-1,DE: ORF 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9166.ts
+#EXTINF:-1,DE: ORF 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9165.ts
+#EXTINF:-1,DE: PRO 7
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9164.ts
+#EXTINF:-1,DE: PRO 7 MAXX
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9163.ts
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9162.ts
+#EXTINF:-1,DE: PROSIEBEN
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9161.ts
+#EXTINF:-1,DE: PROSIEBEN HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9160.ts
+#EXTINF:-1,DE: ROMANCE TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9158.ts
+#EXTINF:-1,DE: ROMANCE TV HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9157.ts
+#EXTINF:-1,DE: RTL 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9156.ts
+#EXTINF:-1,DE: RTL CRIME
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9155.ts
+#EXTINF:-1,DE: RTL NITRO
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9154.ts
+#EXTINF:-1,DE: RTL PASSION
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9153.ts
+#EXTINF:-1,DE: RTL PLUS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9152.ts
+#EXTINF:-1,DE: RTL TELEVISION
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9151.ts
+#EXTINF:-1,DE: SUPER RTL
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9078.ts
+#EXTINF:-1,DE: SAT.1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9150.ts
+#EXTINF:-1,DE: SAT.1 GOLD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9149.ts
+#EXTINF:-1,DE: SAT.1 GOLD HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9148.ts
+#EXTINF:-1,DE: SAT.1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9147.ts
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9079.ts
+#EXTINF:-1,DE: TLC
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9073.ts
+#EXTINF:-1,DE: TOGGO PLUS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9067.ts
+#EXTINF:-1,DE: UNIVERSAL
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9065.ts
+#EXTINF:-1,DE: UNIVERSAL HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9064.ts
+#EXTINF:-1,DE: VOX
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9061.ts
+#EXTINF:-1,DE: VOX HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9060.ts
+#EXTINF:-1,DE: WDR
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9059.ts
+#EXTINF:-1,DE: ZDF HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9057.ts
+#EXTINF:-1,DE: ZDF INFO
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9056.ts
+#EXTINF:-1,DE: ZDF INFO HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9055.ts
+#EXTINF:-1,DE: ZDF NEO
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9054.ts
+#EXTINF:-1,DE: ZEE ONE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9053.ts
+#EXTINF:-1,DE: CARTOON NETWORK
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9215.ts
+#EXTINF:-1,DE: CARTOON NETWORK HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9214.ts
+#EXTINF:-1,DE: DISNEY CHANNEL
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9209.ts
+#EXTINF:-1,DE: DISNEY CINEMAGIC
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9208.ts
+#EXTINF:-1,DE: DISNEY JUNIOR
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9207.ts
+#EXTINF:-1,DE: DISNEY JUNIOR HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9206.ts
+#EXTINF:-1,DE: DISNEY XD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9205.ts
+#EXTINF:-1,DE: DISNEY XD HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9204.ts
+#EXTINF:-1,DE: FAMILY TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9193.ts
+#EXTINF:-1,DE: NICKELODEON
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9169.ts
+#EXTINF:-1,DE: NRJ TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9168.ts
+#EXTINF:-1,DE: AXN
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9218.ts
+#EXTINF:-1,DE: AXN HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9217.ts
+#EXTINF:-1,DE: FOX
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9185.ts
+#EXTINF:-1,DE: FOX HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9184.ts
+#EXTINF:-1,DE: SYFY
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9077.ts
+#EXTINF:-1,DE: SYFY HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9076.ts
+#EXTINF:-1,DE: TNT COMEDY
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9072.ts
+#EXTINF:-1,DE: TNT COMEDY HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9071.ts
+#EXTINF:-1,DE: TNT FILM (TCM) HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9070.ts
+#EXTINF:-1,DE: TNT SERIES
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9069.ts
+#EXTINF:-1,DE: TNT SERIES HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9068.ts
+#EXTINF:-1,DE: FILM CLUB 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9190.ts
+#EXTINF:-1,DE: FILM CLUB 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9189.ts
+#EXTINF:-1,DE: FILM CLUB 3
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9188.ts
+#EXTINF:-1,DE: FILM CLUB 4
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9187.ts
+#EXTINF:-1,DE: FILM CLUB 5
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9186.ts
+#EXTINF:-1,DE: SKY 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9146.ts
+#EXTINF:-1,DE: SKY ARTS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9145.ts
+#EXTINF:-1,DE: SKY ATLANTIC
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9144.ts
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9143.ts
+#EXTINF:-1,DE: SKY CINEMA
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9130.ts
+#EXTINF:-1,DE: SKY CINEMA HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9119.ts
+#EXTINF:-1,DE: SKY CINEMA 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9129.ts
+#EXTINF:-1,DE: SKY CINEMA 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9128.ts
+#EXTINF:-1,DE: SKY CINEMA 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9127.ts
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9126.ts
+#EXTINF:-1,DE: SKY CINEMA ACTION
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9125.ts
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9124.ts
+#EXTINF:-1,DE: SKY CINEMA COMEDY
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9123.ts
+#EXTINF:-1,DE: SKY CINEMA COMEDY HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9122.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9121.ts
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9120.ts
+#EXTINF:-1,DE: SKY EMOTION
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9118.ts
+#EXTINF:-1,DE: SKY EMOTION HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9117.ts
+#EXTINF:-1,DE: SKY HITS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9116.ts
+#EXTINF:-1,DE: SKY HITS HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9115.ts
+#EXTINF:-1,DE: SKY KRIMI
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9114.ts
+#EXTINF:-1,DE: SKY KRIMI HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9113.ts
+#EXTINF:-1,DE: SKY NOSTALGIE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9112.ts
+#EXTINF:-1,DE: SKY NOSTALGIE HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9111.ts
+#EXTINF:-1,DE: SKY SELECT 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9110.ts
+#EXTINF:-1,DE: SKY SELECT 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9108.ts
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9107.ts
+#EXTINF:-1,DE: SKY SELECT 3
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9106.ts
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9105.ts
+#EXTINF:-1,DE: SKY SELECT 4
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9104.ts
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9103.ts
+#EXTINF:-1,DE: SKY SELECT 5
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9102.ts
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9101.ts
+#EXTINF:-1,DE: SKY SELECT 6
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9100.ts
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9099.ts
+#EXTINF:-1,DE: SKY SELECT 7
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9098.ts
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9097.ts
+#EXTINF:-1,DE: SKY SELECT 8
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9096.ts
+#EXTINF:-1,DE: SKY SELECT 9
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9095.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9094.ts
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9093.ts
+#EXTINF:-1,DE: SKY SPORT 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9092.ts
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9091.ts
+#EXTINF:-1,DE: SKY SPORT 3
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9090.ts
+#EXTINF:-1,DE: SKY SPORT 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9089.ts
+#EXTINF:-1,DE: SKY SPORT 4
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9088.ts
+#EXTINF:-1,DE: SKY SPORT 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9087.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9142.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 FUL HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9141.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9140.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9138.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9137.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9136.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9135.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9134.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9133.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9132.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9131.ts
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9139.ts
+#EXTINF:-1,DE: SKY SPORT AUSTRIA
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9086.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9085.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9084.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9083.ts
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9082.ts
+#EXTINF:-1,DE: EUROSPORT 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9198.ts
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9197.ts
+#EXTINF:-1,DE: EUROSPORT 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9196.ts
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9195.ts
+#EXTINF:-1,DE: EUROSPORT 2 HD Xtra
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9194.ts
+#EXTINF:-1,DE: MOTORVISION TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9173.ts
+#EXTINF:-1,DE: SKY SPORT NEWS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9081.ts
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/9080.ts
+#EXTINF:-1,►►► Canais Tv Italia  ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/1965.ts
+#EXTINF:-1,IT:Rai 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6212.ts
+#EXTINF:-1,IT:Rai 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6211.ts
+#EXTINF:-1,IT:Rai 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6210.ts
+#EXTINF:-1,IT:Rai 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6209.ts
+#EXTINF:-1,IT:Rai 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6208.ts
+#EXTINF:-1,IT:Canale 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6205.ts
+#EXTINF:-1,IT:Canale 7 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6204.ts
+#EXTINF:-1,IT:La 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6207.ts
+#EXTINF:-1,IT:La 7 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6206.ts
+#EXTINF:-1,IT:RSI LA 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6203.ts
+#EXTINF:-1,IT:RSI LA 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6202.ts
+#EXTINF:-1,IT:Rai News 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6141.ts
+#EXTINF:-1,IT:Mediaset 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6144.ts
+#EXTINF:-1,IT:Mediaset Extra HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6143.ts
+#EXTINF:-1,IT:Premium Joi
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6165.ts
+#EXTINF:-1,IT:Premium Sport 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6164.ts
+#EXTINF:-1,IT:Premium Sport 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6163.ts
+#EXTINF:-1,IT:Premium Action
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6176.ts
+#EXTINF:-1,IT:Premium Action 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6175.ts
+#EXTINF:-1,IT:Premium Stories
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6162.ts
+#EXTINF:-1,IT:Premium Stories  24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6161.ts
+#EXTINF:-1,IT:Premium Crime
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6170.ts
+#EXTINF:-1,IT:Premium Crime 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6169.ts
+#EXTINF:-1,IT:Premium Cinema
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6174.ts
+#EXTINF:-1,IT:Premium Comedy
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6171.ts
+#EXTINF:-1,IT:Premium Cinema 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6173.ts
+#EXTINF:-1,IT:Premium Cinema 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6172.ts
+#EXTINF:-1,IT:Premium Emotion
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6168.ts
+#EXTINF:-1,IT:Premium EuroSport 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6167.ts
+#EXTINF:-1,IT:Premium EuroSport 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6166.ts
+#EXTINF:-1,IT:PrimaFila 01HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6201.ts
+#EXTINF:-1,IT:PrimaFila 02HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6200.ts
+#EXTINF:-1,IT:PrimaFila 03HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6199.ts
+#EXTINF:-1,IT:PrimaFila 04HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6198.ts
+#EXTINF:-1,IT:PrimaFila 05HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6197.ts
+#EXTINF:-1,IT:PrimaFila 06HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6196.ts
+#EXTINF:-1,IT:PrimaFila 07HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6195.ts
+#EXTINF:-1,IT:PrimaFila 08HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6194.ts
+#EXTINF:-1,IT:PrimaFila 09HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6193.ts
+#EXTINF:-1,IT:PrimaFila 10HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6192.ts
+#EXTINF:-1,IT:PrimaFila 11HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6191.ts
+#EXTINF:-1,IT:PrimaFila 12HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6190.ts
+#EXTINF:-1,IT:PrimaFila 13HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6189.ts
+#EXTINF:-1,IT:PrimaFila 14HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6188.ts
+#EXTINF:-1,IT:PrimaFila 15HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6187.ts
+#EXTINF:-1,IT:PrimaFila 16HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6186.ts
+#EXTINF:-1,IT:PrimaFila 17HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6185.ts
+#EXTINF:-1,IT:PrimaFila 18HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6184.ts
+#EXTINF:-1,IT:PrimaFila 19HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6183.ts
+#EXTINF:-1,IT:Cartoon Network HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6154.ts
+#EXTINF:-1,IT:Discovery HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6153.ts
+#EXTINF:-1,IT:Disney Channel HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6152.ts
+#EXTINF:-1,IT:Disney Junior HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6151.ts
+#EXTINF:-1,IT:Disney XD HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6150.ts
+#EXTINF:-1,IT:Rai Gulp
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6142.ts
+#EXTINF:-1,IT:Sky Cielo HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6140.ts
+#EXTINF:-1,IT:Sky Atlantic HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6145.ts
+#EXTINF:-1,IT:Sky Calcio 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6182.ts
+#EXTINF:-1,IT:Sky Calcio 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6181.ts
+#EXTINF:-1,IT:Sky Calcio 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6180.ts
+#EXTINF:-1,IT:Sky Calcio 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6179.ts
+#EXTINF:-1,IT:Sky Calcio 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6178.ts
+#EXTINF:-1,IT:Sky Calcio 6 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6177.ts
+#EXTINF:-1,IT:Sky Cinema 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6160.ts
+#EXTINF:-1,IT:Sky Cinema Cult HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6157.ts
+#EXTINF:-1,IT:Sky Cinema Family HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6156.ts
+#EXTINF:-1,IT:Sky Cinema Classic HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6159.ts
+#EXTINF:-1,IT:Sky Cinema Comedy HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6158.ts
+#EXTINF:-1,IT:Sky Cinema Passion HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6155.ts
+#EXTINF:-1,IT:Rai Premium
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6146.ts
+#EXTINF:-1,IT:Rai Sport
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6149.ts
+#EXTINF:-1,IT:Sky Sports MotoGP HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6147.ts
+#EXTINF:-1,IT:Sky Sports 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6148.ts
+#EXTINF:-1,NL : 192TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6765.ts
+#EXTINF:-1,NL : Animal Planet
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6764.ts
+#EXTINF:-1,NL : Animal Planet HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6763.ts
+#EXTINF:-1,NL : Discovery Showcase HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6762.ts
+#EXTINF:-1,NL : DTV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6761.ts
+#EXTINF:-1,NL : EDE TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6760.ts
+#EXTINF:-1,NL : Edge Sport HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6759.ts
+#EXTINF:-1,NL : Extreme Sports
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6758.ts
+#EXTINF:-1,NL : Film 1 Action HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6757.ts
+#EXTINF:-1,NL : Film 1 Drama HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6756.ts
+#EXTINF:-1,NL : Film 1 Family
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6755.ts
+#EXTINF:-1,NL : Film 1 Family HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6754.ts
+#EXTINF:-1,NL : Film 1 Sundance HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6753.ts
+#EXTINF:-1,NL : Flevoland
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6752.ts
+#EXTINF:-1,NL : Fox Channel
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6751.ts
+#EXTINF:-1,NL : FOX Sports 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6750.ts
+#EXTINF:-1,NL : Fox Sports 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6749.ts
+#EXTINF:-1,NL : Fox Sports 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6748.ts
+#EXTINF:-1,NL : Fox Sports 4 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6747.ts
+#EXTINF:-1,NL : Fox Sports 5 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6746.ts
+#EXTINF:-1,NL : Fox Sports 6 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6745.ts
+#EXTINF:-1,NL : Frysl
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6744.ts
+#EXTINF:-1,NL : GPTV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6743.ts
+#EXTINF:-1,NL : History HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6742.ts
+#EXTINF:-1,NL : Motors TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6741.ts
+#EXTINF:-1,NL : MTV Music 24
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6740.ts
+#EXTINF:-1,NL : MTV Nederland
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6739.ts
+#EXTINF:-1,NL : N1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6738.ts
+#EXTINF:-1,NL : National Geographic HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6737.ts
+#EXTINF:-1,NL : National Geographic Wild HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6736.ts
+#EXTINF:-1,NL : NOOS
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6735.ts
+#EXTINF:-1,NL : Nuenen
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6734.ts
+#EXTINF:-1,NL : Omroep Brabant
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6733.ts
+#EXTINF:-1,NL : RTV Dordrecht
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6732.ts
+#EXTINF:-1,NL : RTV Drenthe
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6731.ts
+#EXTINF:-1,NL : RTV OOST
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6730.ts
+#EXTINF:-1,NL : RTV Purmerend
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6729.ts
+#EXTINF:-1,NL : RTV Slingeland
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6728.ts
+#EXTINF:-1,NL : RTV Slogo
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6727.ts
+#EXTINF:-1,NL : Salto 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6726.ts
+#EXTINF:-1,NL : Salto 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6725.ts
+#EXTINF:-1,NL : Shorts TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6724.ts
+#EXTINF:-1,NL : Slam!
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6723.ts
+#EXTINF:-1,NL : Slotstad RTV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6722.ts
+#EXTINF:-1,NL : Sports 1 Extra 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6721.ts
+#EXTINF:-1,NL : TLC HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6720.ts
+#EXTINF:-1,NL : TV 538
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6719.ts
+#EXTINF:-1,NL : ViceLand HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6718.ts
+#EXTINF:-1,NL : WOS TV
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6717.ts
+#EXTINF:-1,NL : Zeeland Televisie HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6716.ts
+#EXTINF:-1,NL : Ziggo Sport Extra 1
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6715.ts
+#EXTINF:-1,NL : Ziggo Sport Extra 2
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6714.ts
+#EXTINF:-1,NL : Ziggo Sport Golf
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6713.ts
+#EXTINF:-1,NL : Ziggo Sport Racing
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6712.ts
+#EXTINF:-1,NL : Ziggo Sport Select
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6711.ts
+#EXTINF:-1,NL : Ziggo Sport Select HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6710.ts
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6709.ts
+#EXTINF:-1,►►► Canais Tv POLAND ◄◄◄
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/4539.ts
+#EXTINF:-1,PL: BBC EARTH
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6708.ts
+#EXTINF:-1,PL: BBC HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6707.ts
+#EXTINF:-1,PL: BOOMERANG
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6706.ts
+#EXTINF:-1,PL: Canal  1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6705.ts
+#EXTINF:-1,PL: Canal Family HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6704.ts
+#EXTINF:-1,PL: Canal Film HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6703.ts
+#EXTINF:-1,PL: Canal HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6702.ts
+#EXTINF:-1,PL: CANAL SERIALE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6701.ts
+#EXTINF:-1,PL: Canal Seriale HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6700.ts
+#EXTINF:-1,PL: Canal Sport 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6699.ts
+#EXTINF:-1,PL: Discovery Historia
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6698.ts
+#EXTINF:-1,PL: DISCOVERY SCIENCE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6697.ts
+#EXTINF:-1,PL: Disney Channel
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6696.ts
+#EXTINF:-1,PL: EUROSPORT 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6695.ts
+#EXTINF:-1,PL: Extreme Sports
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6694.ts
+#EXTINF:-1,PL: Filmbox Action
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6693.ts
+#EXTINF:-1,PL: HBO 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6692.ts
+#EXTINF:-1,PL: HBO 3 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6691.ts
+#EXTINF:-1,PL: HBO HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6690.ts
+#EXTINF:-1,PL: History HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6689.ts
+#EXTINF:-1,PL: Kuchnia  HD HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6688.ts
+#EXTINF:-1,PL: Nat Geo HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6687.ts
+#EXTINF:-1,PL: Nsport HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6686.ts
+#EXTINF:-1,PL: Polsat 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6685.ts
+#EXTINF:-1,PL: Polsat Cafe HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6684.ts
+#EXTINF:-1,PL: Polsat Film HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6683.ts
+#EXTINF:-1,PL: Polsat HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6682.ts
+#EXTINF:-1,PL: Polsat Jim Jam
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6681.ts
+#EXTINF:-1,PL: Polsat Play HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6680.ts
+#EXTINF:-1,PL: Polsat Sport News HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6679.ts
+#EXTINF:-1,PL: TLC HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6678.ts
+#EXTINF:-1,PL: TVN Fabula HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6677.ts
+#EXTINF:-1,PL: TVN HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6676.ts
+#EXTINF:-1,PL: TVN Style HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6675.ts
+#EXTINF:-1,PL: TVP 1 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6674.ts
+#EXTINF:-1,PL: TVP 2 HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6673.ts
+#EXTINF:-1,PL: TVP INFO
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6672.ts
+#EXTINF:-1,PL: TVP KULTURA
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6671.ts
+#EXTINF:-1,PL: TVP SERIALE
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6670.ts
+#EXTINF:-1,PL: TVP Sport HD
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6669.ts
+#EXTINF:-1,PL: TVP3
+http://zonanorteiptv.ddns.net:8000/live/xauBPhDr0X/X13KkCFzql/6668.ts
+#EXTINF:-1,XX* ADULT 1
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/182.ts
+#EXTINF:-1,XX* ADULT 2
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/183.ts
+#EXTINF:-1,XX* ADULT 3
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/184.ts
+#EXTINF:-1,XX* ADULT 4
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/185.ts
+#EXTINF:-1,XX* ADULT 5
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/186.ts
+#EXTINF:-1,XX* ADULT 6
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/187.ts
+#EXTINF:-1,XX* ADULT 7
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/188.ts
+#EXTINF:-1,XX* ADULT 8
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/189.ts
+#EXTINF:-1,XX* ADULT 9
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/190.ts
+#EXTINF:-1,XX* ADULT 10
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/212.ts
+#EXTINF:-1,XX* ADULT 11
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/213.ts
+#EXTINF:-1,XX* ADULT 12
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/219.ts
+#EXTINF:-1,XX* ADULT 13
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/220.ts
+#EXTINF:-1,XX* ADULT 14
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/221.ts
+#EXTINF:-1,XX* ADULT 15
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/222.ts
+#EXTINF:-1,XX* ADULT 16
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/519.ts
+#EXTINF:-1,XX* ADULT 17
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/520.ts
+#EXTINF:-1,XX* ADULT 18
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/521.ts
+#EXTINF:-1,XX* ADULT 19
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/581.ts
+#EXTINF:-1,XX* ADULT 20
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/597.ts
+#EXTINF:-1,XX* ADULT 21
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/598.ts
+#EXTINF:-1,XX* ADULT 22
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/599.ts
+#EXTINF:-1,XX* ADULT 23
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/600.ts
+#EXTINF:-1,XX* ADULT 24
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/601.ts
+#EXTINF:-1,XX* ADULT 25.
+http://tsp-pro.net:5115/live/34mh1Ufybi/nBX929GGrO/602.ts
+#EXTINF:-1,XX: Brazzers
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1787.ts
+#EXTINF:-1,XX: Dorcel TV
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1788.ts
+#EXTINF:-1,XX: HOT
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1792.ts
+#EXTINF:-1,XX: Hustler HD
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1790.ts
+#EXTINF:-1,XX: Redlight
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1791.ts
+#EXTINF:-1,XX: SCT
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1789.ts
+#EXTINF:-1,XX: Venus
+http://iptv-belge.ddns.net:8012/live/belge_binum/cEdOdoZaN4/1786.ts
+ 
